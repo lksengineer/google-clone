@@ -3,6 +3,7 @@
 *.jpg
 *.jpeg
 *.gif
+*.ico
 
 # AUDIO
 *.mp3
